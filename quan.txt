@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 red
+=======
+Blue
+>>>>>>> blue
 
 copyright 2019
